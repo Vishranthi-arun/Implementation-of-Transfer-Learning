@@ -124,6 +124,9 @@ print(classification_report(y_test,x_test_predictions))
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 </br>
+Training Loss, Validation Loss Vs Iteration             | Accuracy, Validation Accuracy Vs Iteration                   |               
+:------------------------------------------------------:| :-----------------------------------------------------------:|
+| | |
 </br>
 </br>
 
